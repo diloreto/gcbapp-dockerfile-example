@@ -14,3 +14,5 @@
 # limitations under the License.
 
 echo "Hello, world! Pushing to Cloud Build"
+
+echo "The time is $(date)."
